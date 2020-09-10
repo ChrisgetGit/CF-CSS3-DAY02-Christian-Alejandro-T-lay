@@ -1,0 +1,6 @@
+.container {
+  width: 800px;
+  margin: auto;
+  box-shadow: 12px 0 10px -4px rgba(91, 88, 88, 0.8),
+    -12px 0 8px -4px rgba(91, 88, 88, 0.8);
+}
