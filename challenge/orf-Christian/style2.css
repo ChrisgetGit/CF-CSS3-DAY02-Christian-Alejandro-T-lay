@@ -1,0 +1,135 @@
+
+* {
+	margin: 0;
+	padding: 0;
+	font-size: 1em;
+	text-align: center;
+
+}
+
+body{
+	margin-left: 10%;
+	margin-right: 10%;
+
+	background-color: lightgray;	
+}
+/*
+#div1{
+	width: 100%;
+	height: ;
+	background-color: darkgray;
+	position: relative;
+	
+}
+*/
+nav>ul{
+
+    padding-left: 3%;
+    background-color: #4371A3;
+    width: 97%;
+    list-style: none;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+li{
+	
+    padding-right: 3%;
+    color: white;
+    font-weight: bold;
+    float:left;
+    background-color: #4371A3;
+}
+
+p{
+	position: absolute;
+	float: left;
+	bottom:  8px;
+	left: 3px;
+	font: bold;
+	color: white;
+	font-size: 80%;
+	text-shadow: 1px 1px black;
+	text-align: left;
+	
+}
+
+#top{
+	position: absolute;
+	top:  8px;
+	left: 3px;
+	font: bold;
+	color: white;
+	font-size: 120%;
+	text-shadow: 1px 1px black;
+
+
+}
+
+#end{
+	
+    float: right;
+    width: 150px;    
+     
+}
+
+.container{	
+	position: relative;
+	top: 40px;
+    width: 99.74%;
+    height: 300px;
+    border: solid black 1px;
+
+}
+
+#first-img{
+	left: 00px;
+	position: relative;
+	width: 19%;
+	height: 100%;       
+    background-image: url("pics/glacier.jpg");
+    background-size: cover;
+    float: left;
+    
+    
+    
+    }
+
+
+#second-img{
+		
+	position: relative;
+	width: 61%;
+	height: 50%;       
+    background-image: url("pics/jungle.jpg");
+    background-size: cover;
+    
+    float: left;
+}
+
+#rock-img{
+		
+	position: relative;
+	width: 61%;
+	height: 50%;       
+    background-image: url("pics/rocks.jpg");
+    background-size: cover;
+    float: left;
+    bottom: 0px;
+}
+
+#ice-img{
+	
+	position: relative;
+	width: 20%;
+	height: 100%;       
+    background-image: url("pics/ice.jpg");
+    background-size: cover;
+    float: right;
+    
+}
+
+
+
+ 
+        
