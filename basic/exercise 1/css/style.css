@@ -8,12 +8,14 @@ body{
     -12px 0 8px -4px rgba(91, 88, 88, 0.8);
   padding-left: 50px;
   padding-right: 50px;
+  background-color: gray;
 }
 p{
-  color:#707070;
+  color:orange;
+
 }
 li{
-  color:#707070;
+  color:orange;
 }
 
 header{
@@ -29,13 +31,14 @@ h3{
   color: #474747;
 }
 .hero{
-  background-color: #f4f4f4;
+  background-color: gray;
   text-align: center;
   padding-bottom: 10px;
 }
 li {
   padding-bottom: 5px;
   padding-top: 5px;
+  color: orange;
 }
 .rating{
   color: #F4B400;
